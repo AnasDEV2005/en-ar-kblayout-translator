@@ -1,4 +1,5 @@
 qwerty to arabic keyboard translator
+well at least without the shift+key version
 
 cargo install
 ```
